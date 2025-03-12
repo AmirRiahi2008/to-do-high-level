@@ -29,7 +29,7 @@ Check out the live version of the website here:
 [Live Demo](https://guess-number-game-orpin.vercel.app/)
 
 ## Installation
-
+ 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
