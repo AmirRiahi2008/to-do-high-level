@@ -1,5 +1,5 @@
 "use strict";
-// Filters DeleteAllCompleted
+// Filters Delete All Completed
 const themeSwitcherBtn = document.getElementById("theme-switcher");
 const addBtn = document.getElementById("add-btn");
 const todoInput = document.getElementById("addt");
